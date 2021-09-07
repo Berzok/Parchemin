@@ -1,0 +1,32 @@
+{
+    "name": "parcheminjs",
+    "version": "0.0.8",
+    "description": "Pagination library",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "pagination",
+        "paging",
+        "vanilla",
+        "dev"
+    ],
+    "license": "ISC",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "author": "Berzok",
+    "dependencies": {
+        "vanilla-cherry": "^0.6.0"
+    },
+    "files": [
+        ""
+    ],
+    "man": [
+        ""
+    ],
+    "directories": {}
+}
